@@ -14,10 +14,6 @@ SO THAT I can create a strong password that provides greater security
 - CSS
 - HTML
 
-## Website
-
-https://nlimbu07.github.io/password-generator/
-
 ## Contribution
 
 Made with ❤️ by Niraj Limbu
