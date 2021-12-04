@@ -4,6 +4,8 @@ Created an application that generates a random password based on user-selected c
 
 ![alt text](./assets/images/image.jpg)
 
+## [Deployed Application](https://nlimbu07.github.io/password-generator/)
+
 ## User Story
 
 ```
