@@ -2,9 +2,9 @@
 
 Created an application that generates a random password based on user-selected criteria. The app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code.
 
-![alt text](/assets/images/image.png)
+![alt text](./assets/images/image.png)
 
-[Deployed Application](https://nlimbu07.github.io/password-generator/)
+## [Deployed Application](https://nlimbu07.github.io/password-generator/)
 
 ## User Story
 
